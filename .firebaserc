@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "dashboard-finanzas-angular10": {
+      "hosting": {
+        "redux-dashbord-A10": [
+          "dashboard-finanzas-angular10"
+        ]
+      }
+    }
+  }
+}
